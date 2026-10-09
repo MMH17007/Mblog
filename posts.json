@@ -1,0 +1,65 @@
+{
+ "brand": "Cuaderno",
+ "h1": "Pensar en voz alta,",
+ "h2": "por escrito.",
+ "sub": "Un cuaderno de pensamientos, escritos y artículos propios. Sin prisa y sin ruido.",
+ "cats": [
+  "Pensamientos",
+  "Escritos",
+  "Artículos"
+ ],
+ "about": [
+  "Aquí escribo lo que pienso, lo que me preocupa y lo que voy aprendiendo. Algunos textos son breves y otros más largos; todos son honestos.",
+  "Publico cuando tengo algo que decir, sin calendario fijo."
+ ],
+ "posts": [
+  {
+   "id": "el-valor-de-aburrirse",
+   "cat": "Artículos",
+   "date": "2026-10-02",
+   "title": "El valor de aburrirse un rato",
+   "excerpt": "Las mejores ideas rara vez llegan con el móvil en la mano.",
+   "body": [
+    "Hemos eliminado casi todos los huecos vacíos del día. Cola del súper, trayecto en autobús, cinco minutos antes de dormir: todo se llena con pantallas.",
+    "Esos huecos eran el sitio donde la mente se ordenaba sola. Sin ellos, pensamos más rápido pero más superficialmente.",
+    "Propongo un experimento pequeño: una vez al día, esperar sin hacer nada. Anotar después qué aparece. Suele ser sorprendente."
+   ]
+  },
+  {
+   "id": "carta-al-yo-de-hace-cinco-anos",
+   "cat": "Escritos",
+   "date": "2026-09-24",
+   "title": "Carta al yo de hace cinco años",
+   "excerpt": "Lo que le diría a quien creía que todo se decidía antes de los veinte.",
+   "body": [
+    "No tienes que saberlo todo todavía. La gente que aparenta seguridad suele estar improvisando igual que tú, solo que con mejor postura.",
+    "Cuida a los pocos amigos que te llaman sin motivo. Y empieza antes eso que te da vergüenza empezar: dentro de cinco años lo agradecerás.",
+    "Una cosa más: lo que hoy te parece un desvío acabará siendo el camino."
+   ]
+  },
+  {
+   "id": "por-que-dejar-de-comparar",
+   "cat": "Pensamientos",
+   "date": "2026-09-15",
+   "title": "Compararse es medir con la regla equivocada",
+   "excerpt": "Siempre comparamos nuestro proceso con el resultado de otros.",
+   "body": [
+    "Vemos de los demás el escaparate: el logro, la foto, el anuncio. De nosotros mismos conocemos el trastero entero.",
+    "La comparación es injusta por diseño, porque enfrenta un borrador contra una versión publicada.",
+    "Mejor medir contra uno mismo hace un año. Es la única regla que tiene en cuenta de dónde partías."
+   ]
+  },
+  {
+   "id": "como-leer-menos-y-mejor",
+   "cat": "Artículos",
+   "date": "2026-09-03",
+   "title": "Cómo leer menos y entender más",
+   "excerpt": "Tres hábitos sencillos para que lo leído se quede.",
+   "body": [
+    "Leer más libros no siempre significa saber más. Lo que cuenta es cuánto de lo leído cambia lo que haces o lo que piensas.",
+    "Primero: subraya poco y escribe con tus palabras un resumen de dos líneas al terminar cada capítulo. Segundo: explícaselo a alguien. Tercero: vuelve a las páginas importantes una semana después.",
+    "Con estos tres gestos, un libro al mes rinde más que uno a la semana sin pausa."
+   ]
+  }
+ ]
+}
