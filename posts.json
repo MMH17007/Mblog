@@ -12,18 +12,5 @@
   "Aquí escribo lo que pienso, lo que me preocupa y lo que voy aprendiendo. Algunos textos son breves y otros más largos; todos son honestos.",
   "Publico cuando tengo algo que decir, sin calendario fijo."
  ],
- "posts": [
-  {
-   "id": "como-leer-menos-y-mejor",
-   "cat": "Artículos",
-   "date": "2026-09-03",
-   "title": "Cómo leer menos y entender más",
-   "excerpt": "Tres hábitos sencillos para que lo leído se quede.",
-   "body": [
-    "Leer más libros no siempre significa saber más. Lo que cuenta es cuánto de lo leído cambia lo que haces o lo que piensas.",
-    "Primero: subraya poco y escribe con tus palabras un resumen de dos líneas al terminar cada capítulo. Segundo: explícaselo a alguien. Tercero: vuelve a las páginas importantes una semana después.",
-    "Con estos tres gestos, un libro al mes rinde más que uno a la semana sin pausa."
-   ]
-  }
- ]
+ "posts": []
 }
