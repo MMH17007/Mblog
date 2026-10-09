@@ -1,15 +1,15 @@
 {
- "brand": "Cuaderno",
- "h1": "Pensar en voz alta,",
- "h2": "por escrito.",
+ "brand": "Buscatetuespacio",
+ "h1": "Pensar para escribir",
+ "h2": "escribir para pensar",
  "sub": "Un cuaderno de pensamientos, escritos y artículos propios. Sin prisa y sin ruido.",
  "cats": [
-  "Pensamientos",
-  "Escritos",
-  "Artículos"
+  "Sueños",
+  "Venazos",
+  "Escritos [Tecleados mas bien]"
  ],
  "about": [
-  "Aquí escribo lo que pienso, lo que me preocupa y lo que voy aprendiendo. Algunos textos son breves y otros más largos; todos son honestos.",
+  "Mic drop",
   "Publico cuando tengo algo que decir, sin calendario fijo."
  ],
  "posts": []
