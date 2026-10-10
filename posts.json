@@ -12,5 +12,17 @@
   "Mic drop",
   "Publico cuando tengo algo que decir, sin calendario fijo."
  ],
- "posts": []
+ "posts": [
+  {
+   "id": "labor-del-poeta",
+   "title": "~Labor del poeta~",
+   "cat": "Escritos [Tecleados mas bien]",
+   "date": "2026-10-10",
+   "excerpt": "¿A que se dedican los poetas?",
+   "body": [
+    "¿Son escritores folclóricos cuyas obras se cifran con contraseñas de alto léxico? Para mí son simplemente observadores. Letrados que tienen la suerte de dominar el arte de ver y plasmarlo en un papel en un papel. Son sentimentales que al ver el rostro dañado de un ser en sus últimos buscan la astucia de sus arrugas y entre ellas encuentran las letras que conforman sus sonetos y romances. Son superheroes que contrastan el sabor de la juventud con la eterna singularidad del saber de la vejez. Es una etnia escasa pero siguen ahí cantando coplas a sus amores y recitando poemas a sus familiares. Arquitectos estrictamente ordenados como un pájaro haciendo su nido con ramas del grosor de un alfiler. Herederos y herederas de cupido  que se clavan sus propias flechas y las lanzan a las pocos que un los leen. Son artistas vanguardista del arte abstracto. Los pocos que entienden ese arte, las personas imprescindibles en este mundo. Los gigantes en la frase \"júntate con enanos y te cortaran las piernas, pégate a los gigantes y tocaras el cielo\". Son junto a todos los humanistas artistas de este planeta...lo único que puede salvarlo.",
+    "Con mucho respeto a la ciencia, bienvenidos a esta nueva aventura, bienvenidos a 6AM...Hasta pronto."
+   ]
+  }
+ ]
 }
